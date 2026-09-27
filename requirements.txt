@@ -1,0 +1,14 @@
+
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+pandas
+numpy
+librosa
+opencv-python
+matplotlib
+tqdm
+gradio
+pyyaml
